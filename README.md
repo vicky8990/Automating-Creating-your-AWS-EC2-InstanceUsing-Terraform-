@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
    -terraform init
 
 ## Step 2: Review the Plan
-   -Step 2: Review the Plan
+   -terraform plan
 
 ## Step 3: Apply the Configuration
    -terraform apply
